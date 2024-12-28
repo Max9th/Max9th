@@ -1,12 +1,12 @@
 # Hellow :3
 
-> I’m @Max9th, aka Max! 
->> I'm many things, including:
-  * A student;
-  * A programmer (I can code in GDScript, C++ [Not very well, but well enough for arduino projects], Python and i'm now learning Rust);
-  * A Fan of electronics;
-  * A game dev (godot only for now);
-  * and a certified asshole (Not really proud about that tbh)
+I’m @Max9th, aka Max! 
+I'm many things, including:
+* A student;
+* A programmer (I can code in GDScript, C++ [Not very well, but well enough for arduino projects], Python and i'm now learning Rust);
+* A Fan of electronics;
+* A game dev (godot only for now);
+* and a certified asshole (Not really proud about that tbh)
 
 
 
