@@ -1,4 +1,6 @@
-I’m @Max9th, aka Max! 
+# Hellow :3
+
+> I’m @Max9th, aka Max! 
 I’m a student;
 A programmer (I can code in GDScript, C++ [Not very well, but well enough for arduino projects], Python and i'm now learning Rust);
 Fan of electronics;
