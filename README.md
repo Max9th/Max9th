@@ -1,5 +1,5 @@
 I’m @Max9th, aka Max! 
-I’m student, a programmer (I can program in GDScript, C++ [Not very well, but well enough for arduino projects], Python and i'm now learning Rust), electronics enthusiast and a certified asshole 
+I’m student, a programmer (I can program in GDScript, C++ [Not very well, but well enough for arduino projects], Python and i'm now learning Rust), electronics enthusiast, game developer (godot only for now) and a certified asshole 
 
 
 
