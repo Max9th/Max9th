@@ -2,7 +2,7 @@
 
 > I’m @Max9th, aka Max! 
 >> I'm many things, including:
-a student;
+  a student;
 
 A programmer (I can code in GDScript, C++ [Not very well, but well enough for arduino projects], Python and i'm now learning Rust);
 
