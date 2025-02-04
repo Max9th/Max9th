@@ -4,8 +4,8 @@ I’m @Max9th, aka Max!
 I'm many things, including:
 * A student;
 * A programmer (I can code in GDScript, C++ (Ehh, Well enough for arduino projects), Python and now I'm learning Rust);
-* A Fan of electronics;
-* A game dev (godot only for now);
+* A Fan of analogical and digital electronics;
+* A game developer (godot only for now);
 * and a certified asshole (Not really proud about that tbh)
 
 
