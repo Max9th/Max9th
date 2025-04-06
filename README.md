@@ -7,9 +7,6 @@ I'm many things, including:
 * A programmer (I can code in GDScript, C++ (Ehh, Well enough for arduino projects) and Python;
 * A Fan of analogical and digital electronics;
 * A game developer (godot only for now);
-* and a certified asshole (Not really proud about that tbh)
-
-
 
 - 📫 How to contact me: max9th@protonmail.com
 
