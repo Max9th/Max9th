@@ -1,10 +1,10 @@
 # Hi T_T
 
-I’m Forge, aka Max! 
+I’m ForgeWorks! 
 I'm many things, including:
 * A student;
 * A Junior Researcher;
-* A programmer (I can code in GDScript, C++ (Ehh, Well enough for arduino projects) and Python;
+* A programmer (I can code in GDScript, C++ (Ehh, Well enough for arduino projects);
 * A Fan of analogical and digital electronics;
 * A game developer (godot only for now).
 
