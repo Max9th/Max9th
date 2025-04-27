@@ -1,12 +1,12 @@
 # Hi T_T
 
-I’m @Max9th, aka Max! 
+I’m Forge, aka Max! 
 I'm many things, including:
 * A student;
 * A Junior Researcher;
 * A programmer (I can code in GDScript, C++ (Ehh, Well enough for arduino projects) and Python;
 * A Fan of analogical and digital electronics;
-* A game developer (godot only for now);
+* A game developer (godot only for now).
 
 - 📫 How to contact me: max9th@protonmail.com
 
