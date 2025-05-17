@@ -1,14 +1,14 @@
-# Hi T_T
+# 🌱 OIOI :D 🌱
 
-I’m ForgeWorks! 
-I'm many things, including:
-* A student;
-* A Junior Researcher;
-* A programmer (I can code in GDScript, C++ (Ehh, Well enough for arduino projects);
-* A Fan of analogical and digital electronics;
-* A game developer (godot only for now).
+Eu sou ForgeWorks! 
+Sou diversas coisas, mas entre elas:
+* Um estudante de Instituto Federal;
+* Um Pesquisador Jûnior;
+* Um programador (C++, GDScript);
+* Fã #1 de eletrônica digital e analógica;
+* Um desenvolvedor de jogos (Godot apenas).
 
-- 📫 How to contact me: max9th@protonmail.com
+- 📫 Contato: max9th@protonmail.com (Profissional)
 
 <!---
 Max9th/Max9th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
