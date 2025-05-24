@@ -1,6 +1,6 @@
 # 🌱 OIOI :D 🌱
 
-Eu sou ForgeWorks! 
+Eu sou ForgeWorks (Aka Forge)! 
 Sou diversas coisas, mas entre elas:
 * Um estudante de Instituto Federal;
 * Um Pesquisador Jûnior;
