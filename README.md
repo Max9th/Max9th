@@ -8,7 +8,7 @@ Sou diversas coisas, mas entre elas:
 * Fã #1 de eletrônica digital e analógica;
 * Um desenvolvedor de jogos (Godot apenas).
 
-- 📫 Contato: max9th@protonmail.com (Profissional)
+- 📫 Contato: forgeworks@proton.me
 
 <!---
 Max9th/Max9th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
