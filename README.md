@@ -3,10 +3,9 @@
 Eu sou ForgeWorks (Aka Forge)! 
 Sou diversas coisas, mas entre elas:
 * Um estudante de Instituto Federal;
-* Um Pesquisador Jûnior;
 * Um programador (C++, GDScript);
 * Fã #1 de eletrônica digital e analógica;
-* Um desenvolvedor de jogos (Godot apenas).
+* Um desenvolvedor de jogos.
 
 - 📫 Contato: forgeworks@proton.me
 
