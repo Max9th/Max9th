@@ -5,20 +5,39 @@
 
 Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 
-**My hobbies:**
+## My hobbies:
 
 - Priorities:
 - - Graphic Design (Vector Graphics);
-- Game Development (Godot Engine);
-- Pixel Art;
-- Voxel Art;
+- - Game Development (Godot Engine);
+- - Pixel Art;
+- - Voxel Art;
 
--- Ones I practice when possible, but which I still love:
-- 3D Art;
-- Circuit Design (Analog and Digital circuits);
-- Programming for Logic Programmable Controllers;
-- Web development;
-- Programming.
+- Ones I practice when possible, but which I still love:
+- - 3D Art;
+- - Circuit Design (Analog and Digital circuits);
+- - Programming for Logic Programmable Controllers;
+- - Web development;
+- - Programming.
+
+## Current app stack:
+
+- Vector art: Inkscape
+- 3D art: Blender / Goo Engine
+- Motion Graphics: Friction
+- Pixel art: PixelOrama (Might go back to Aseprite)
+- Raster art: Krita / Blender
+- Voxel art: MagicaVoxel
+- DAW: Fl Studio (Changing to LMMS)
+- Tracker: SunVox (Might try OxideTracker
+
+- 3D CAD: FreeCAD (Might try LeoCAD)
+- IDE: Zed
+- Game engine: Godot / PICO 8 / PixelVision 8 (Planning on getting on Defold and Unity too)
+- Circuit design: Fritzing
+- Circuit Simualtion: falstad
+
+- Notes: Trillium Next
 
 - 📫 Contact: forgeworks@proton.me
 
