@@ -7,8 +7,8 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 
 **My hobbies:**
 
--- Priorities:
-- Graphic Design (Vector Graphics);
+- Priorities:
+- - Graphic Design (Vector Graphics);
 - Game Development (Godot Engine);
 - Pixel Art;
 - Voxel Art;
