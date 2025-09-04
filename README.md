@@ -1,5 +1,5 @@
 
-<img width="210" height="200" alt="PFP_ForgeWorks_10x" src="https://github.com/user-attachments/assets/388f87d5-b212-4f0c-9493-2c2caab401bd" />
+<img width="940" height="400" alt="untitled" src="https://github.com/user-attachments/assets/0ae354dc-8418-48e9-a588-251bde9275d3" />
 
 # ForgeWorks
 
