@@ -11,10 +11,11 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 - - Graphic Design (Vector Graphics);
 - - Game Development (Godot Engine);
 - - Pixel Art;
-- - Voxel Art;
+- - 3D Art;
+
 
 **Ones I practice when possible, but which I still love:**
-- - 3D Art;
+- - Voxel Art;
 - - Circuit Design (Analog and Digital circuits);
 - - Programming for Logic Programmable Controllers;
 - - Web development;
